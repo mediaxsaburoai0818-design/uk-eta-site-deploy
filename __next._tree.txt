@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/0atm4-41p4o3_.css","style"]
+:HL["/_next/static/chunks/0ysr_4d1qs299.css","style"]
 :HL["/_next/static/media/05ce0245cbf07d46-s.p.0n1h9.0sfuk_r.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/2b4499d915222007-s.p.0nbtxmb3x1sqz.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/b4e85636e2ca4056-s.p.0c3c6tp9xl371.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -8,4 +8,10 @@
 :HL["/images/icon-clock.png","image"]
 :HL["/images/icon-calendar.png","image"]
 :HL["/images/icon-suitcase.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"cr2gUWDsJB516y3lFBPDg"}
+:HL["/images/icon-info.png","image"]
+:HL["/images/icon-form.png","image"]
+:HL["/images/icon-fee.png","image"]
+:HL["/images/icon-validity.png","image"]
+:HL["/images/icon-docs.png","image"]
+:HL["/images/icon-gov.png","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"LoXexndIw2QI-Zrg6XMU-"}
