@@ -5,4 +5,4 @@
 :HL["/_next/static/media/7ddd198311ba7843-s.p.11f_0f-25f9yg.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/ae8872c8a32e309c-s.p.05txd3dlozf45.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/b49b0d9b851e4899-s.p.0yfy_qj1.2qn0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"uk-entry","param":null,"prefetchHints":0,"slots":{"children":{"name":"lotnisko-heathrow","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"xDiDBuITaEsvPRIW1kOWW"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"uk-entry","param":null,"prefetchHints":0,"slots":{"children":{"name":"lotnisko-heathrow","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"t8ThqHWgpnZswqfcbsdsj"}
